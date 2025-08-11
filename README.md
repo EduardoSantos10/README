@@ -52,8 +52,7 @@ Atualmente estou cursando Análise e Desenvolvimento de Sistemas e formado em T�
 
 ## Minhas Contribuições
 
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=EduardoSantos10&repo=SEUREPOSITORIO&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/EduardoSantos10/SEUREPOSITORIO)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=USERNAME&repo=README&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/USERNAME/README)
 
-![Snake animation](https://github.com/EduardoSantos10/EduardoSantos10/blob/output/github-contribution-grid-snake.svg)
 
 
